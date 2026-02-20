@@ -46,6 +46,7 @@ export default function HomePage() {
                 src="/images/banner.jpg"
                 alt="智能匹配任务"
                 fill
+                priority
                 className="object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-r from-[#3DBBA0]/60 to-transparent" />
