@@ -4,7 +4,5 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/v0-ios-ui',
 };
-
 export default nextConfig;
